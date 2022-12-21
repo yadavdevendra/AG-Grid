@@ -7,7 +7,7 @@ import { AGgrid3 } from './components/AGgrid3';
 function App() {
   return (
     <div className="App">
-
+      <h1>AG GRID</h1>
       <AGgridcom />
       {/* <AGgrid3/> */}
 
